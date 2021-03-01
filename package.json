@@ -43,7 +43,7 @@
     "jss": "10.1.1",
     "jss-rtl": "0.3.0",
     "moment": "2.24.0",
-    "prismjs": "1.20.0",
+    "prismjs": "1.23.0",
     "prop-types": "15.7.2",
     "react": "16.13.1",
     "react-app-polyfill": "1.0.6",
